@@ -71,6 +71,10 @@
    background: var(--color-secondary-dark);
 }
 
+.buttons-container a img {
+   margin-right: 2.4rem;
+}
+
 .total-connections{
    font-size: 1.4rem;
    display: flex;
