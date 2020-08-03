@@ -19,3 +19,17 @@
    --color-box-footer: #FAFAFC;
    font-size: 60%;
  }
+
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+ }
+
+ html, body, #root {
+    height: 100vh;
+ }
+
+ body {
+    background: var(--color-background);
+ }
