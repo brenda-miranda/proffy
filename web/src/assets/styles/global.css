@@ -46,3 +46,8 @@
  textarea {
     font: 500 1.6rem Poppins;
  }
+
+ .container {
+    width: 90vw;
+    max-width: 700px;
+ }
