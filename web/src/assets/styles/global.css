@@ -33,3 +33,9 @@
  body {
     background: var(--color-background);
  }
+
+ #root {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ }
